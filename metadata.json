@@ -1,0 +1,6 @@
+{
+  "name": "Indra Jaya Kost",
+  "description": "Sistem Manajemen Properti dan Hunian Indra Jaya Kost. Menyediakan pencarian tipe kamar di Jimbaran, Pagerwojo, dan Magersari, integrasi sinkronisasi data real-time, mode gelap, penyesuaian notifikasi push, dukungan aksesibilitas, portal penyewa, serta dashboard admin dan keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
